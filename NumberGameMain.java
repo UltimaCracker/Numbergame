@@ -1,7 +1,7 @@
 public class NumberGameMain {
     public static void main(String[] args) {
         System.out.println("*****************");
-        System.out.println("  数あてゲーム  ");
+        System.out.println("|  数あてゲーム  |");
         System.out.println("*****************");
 
         System.out.println("私が考えた、0〜99までの数字を当ててください");
